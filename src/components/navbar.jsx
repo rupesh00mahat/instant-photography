@@ -17,10 +17,7 @@ function Navbar() {
           <a href="#contact-us">Contact Us</a>
         </li>
       </ul>
-      <div className="hamburger-menu">
-      <GiHamburgerMenu />
-
-      </div>
+      
     </nav>
   );
 }
